@@ -1,0 +1,11 @@
+:root {
+  --color-bg-gray: #f5f5f5;
+  --color-bg-white: #fdfffd;
+  --color-text: #22243b;
+}
+
+html.dark {
+  --color-bg-gray: #1b1b1b;
+  --color-bg-white: #212121;
+  --color-text: #fdfffd;
+}
