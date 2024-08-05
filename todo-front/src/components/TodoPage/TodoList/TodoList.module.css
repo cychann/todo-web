@@ -1,0 +1,14 @@
+.layout {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  background-color: var(--color-bg-white);
+  color: var(--color-text);
+}
+
+.todo_ul {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
