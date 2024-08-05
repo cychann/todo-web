@@ -1,0 +1,22 @@
+.layout {
+  width: 480px;
+  height: 480px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 16px;
+}
+
+.header {
+  background-color: var(--color-bg-gray);
+  color: var(--color-text);
+  border-radius: 16px 16px 0 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+}
+
+.toggleButton {
+  outline: none;
+  border: none;
+}
